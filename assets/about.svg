@@ -29,9 +29,12 @@
       <text x="53" y="174">&gt; handshake with NetWatch relay ........ <tspan fill="#6fcf97">[OK]</tspan></text>
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.1665;.167;1" dur="18s" repeatCount="indefinite"/>
     </g>
-    <rect class="connect" x="53" y="198" width="694" height="4" rx="2" fill="#cfd6e4" fill-opacity=".12"/>
+    <rect class="connect" x="53" y="198" width="694" height="4" rx="2" fill="#cfd6e4" fill-opacity=".12">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.1665;.167;1" dur="18s" repeatCount="indefinite"/>
+    </rect>
     <rect class="connect" x="53" y="198" width="0" height="4" rx="2" fill="url(#bar)">
       <animate attributeName="width" values="0;694;694;0" keyTimes="0;.1665;.995;1" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.1665;.167;1" dur="18s" repeatCount="indefinite"/>
     </rect>
 
     <!-- Phase 2: BREACH, 3–6 seconds. -->
