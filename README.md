@@ -66,7 +66,8 @@
 
 <!-- PROJECTS:START -->
 <table align="center" width="100%">
-<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">fall-detection-system-aegis-ai-</a></strong><br><sub>just a mini project</sub><br><br><code>Java</code><br><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">Open repository ↗</a></td><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/dev-ops-lab">dev-ops-lab</a></strong><br><sub>Repository and source code.</sub><br><br><a href="https://github.com/shubh26000/dev-ops-lab">Open repository ↗</a></td></tr>
+<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/student-management">student-management</a></strong><br><sub>Repository and source code.</sub><br><br><code>HTML</code><br><a href="https://github.com/shubh26000/student-management">Open repository ↗</a></td><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/dev-ops-lab">dev-ops-lab</a></strong><br><sub>Repository and source code.</sub><br><a href="https://github.com/shubh26000/dev-ops-lab">Open repository ↗</a></td></tr>
+<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">fall-detection-system-aegis-ai-</a></strong><br><sub>just a mini project</sub><br><br><code>Java</code><br><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">Open repository ↗</a></td><td width="50%" valign="top"></td></tr>
 </table>
 <!-- PROJECTS:END -->
 
