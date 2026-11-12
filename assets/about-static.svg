@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cyberdeck access granted: Shubham Pandey</title>
+  <desc id="desc">Static final frame of the cyberdeck terminal, showing Shubham Pandey's profile details and access granted status.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0f1a"/><stop offset="1" stop-color="#11162a"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5fd4d0" stop-opacity=".8"/><stop offset=".5" stop-color="#cfd6e4" stop-opacity=".2"/><stop offset="1" stop-color="#d46a9f" stop-opacity=".75"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".075"/><stop offset=".4" stop-color="#ffffff" stop-opacity=".025"/><stop offset="1" stop-color="#5fd4d0" stop-opacity=".035"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="11"/></filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#ffffff" stroke-opacity=".13" stroke-width=".5"/></pattern>
+    <clipPath id="window"><rect x="15" y="15" width="770" height="390" rx="20"/></clipPath>
+  </defs>
+  <rect width="800" height="420" rx="26" fill="url(#background)"/>
+  <ellipse cx="170" cy="34" rx="210" ry="48" fill="#5fd4d0" opacity=".11" filter="url(#glow)"/>
+  <ellipse cx="660" cy="390" rx="185" ry="48" fill="#d46a9f" opacity=".10" filter="url(#glow)"/>
+  <rect x="15" y="15" width="770" height="390" rx="20" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+  <g clip-path="url(#window)">
+    <rect x="16" y="16" width="768" height="42" fill="#ffffff" fill-opacity=".045"/>
+    <path d="M16 57H784" stroke="#cfd6e4" stroke-opacity=".12"/>
+    <circle cx="39" cy="37" r="5" fill="#d46a9f" fill-opacity=".85"/><circle cx="57" cy="37" r="5" fill="#e8c468" fill-opacity=".85"/><circle cx="75" cy="37" r="5" fill="#6fcf97" fill-opacity=".85"/>
+    <text x="400" y="42" text-anchor="middle" fill="#cfd6e4" fill-opacity=".82" font-family="'Fira Code',Consolas,monospace" font-size="13">cyberdeck://shell</text>
+    <rect x="16" y="58" width="768" height="346" fill="url(#scanlines)" opacity=".18" pointer-events="none"/>
+    <g font-family="'Fira Code',Consolas,monospace" font-size="13.5">
+      <text x="53" y="109" fill="#d46a9f">┌─ ACCOUNT INFO <tspan font-weight="700">COMPROMISED</tspan> ───────────────────┐</text>
+      <text x="73" y="137" fill="#e8c468">NAME</text><text x="159" y="137" fill="#5fd4d0">........</text><text x="235" y="137" fill="#cfd6e4">Shubham Pandey</text>
+      <text x="73" y="160" fill="#e8c468">HANDLE</text><text x="159" y="160" fill="#5fd4d0">......</text><text x="235" y="160" fill="#cfd6e4">shubh26000</text>
+      <text x="73" y="183" fill="#e8c468">CLASS</text><text x="159" y="183" fill="#5fd4d0">.........</text><text x="235" y="183" fill="#cfd6e4">CS Undergrad / Android Developer</text>
+      <text x="73" y="206" fill="#e8c468">BASE</text><text x="159" y="206" fill="#5fd4d0">..........</text><text x="235" y="206" fill="#cfd6e4">Bangalore, India</text>
+      <text x="73" y="229" fill="#e8c468">STACK</text><text x="159" y="229" fill="#5fd4d0">.........</text><text x="235" y="229" fill="#cfd6e4">Java / Python / Android / AI/ML</text>
+      <text x="73" y="252" fill="#e8c468">CURRENTLY</text><text x="159" y="252" fill="#5fd4d0">.......</text><text x="235" y="252" fill="#cfd6e4">Aegis AI: IoT fall detection + emergency SOS</text>
+      <text x="73" y="275" fill="#e8c468">LEARNING</text><text x="159" y="275" fill="#5fd4d0">........</text><text x="235" y="275" fill="#cfd6e4">AI/ML / on-device ML / sensor fusion</text>
+      <text x="73" y="298" fill="#e8c468">STATUS</text><text x="159" y="298" fill="#5fd4d0">.........</text><text x="235" y="298" fill="#cfd6e4">Open to collabs</text>
+      <text x="53" y="326" fill="#d46a9f">└────────────────────────────────────────────────────────────┘</text>
+    </g>
+    <rect x="53" y="351" width="155" height="27" rx="13.5" fill="#6fcf97" fill-opacity=".11" stroke="#6fcf97" stroke-opacity=".55"/>
+    <circle cx="68" cy="364.5" r="3.5" fill="#6fcf97"/>
+    <text x="81" y="369" fill="#6fcf97" font-family="'Fira Code',Consolas,monospace" font-size="12" letter-spacing=".6">ACCESS GRANTED</text>
+    <text x="53" y="393" fill="#5fd4d0" font-family="'Fira Code',Consolas,monospace" font-size="14">&gt; <tspan fill="#cfd6e4">_</tspan></text>
+  </g>
+</svg>

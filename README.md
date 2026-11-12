@@ -20,22 +20,20 @@
 <a id="about"></a>
 <div align="center">
 
-## About Me
+## CYBERDECK BREACH // ABOUT
 
-<img src="assets/glass-divider.svg" alt="Muted cyan and magenta neon divider" width="100%">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/about-static.svg">
+  <img src="assets/about.svg" alt="Animated cyberdeck terminal revealing Shubham Pandey's profile details and access status" width="100%">
+</picture>
+
+<br>
+
+<a href="#projects"><img src="assets/nav-projects.svg" alt="Projects" height="38"></a>
+<a href="#skills"><img src="assets/nav-skills.svg" alt="Skills" height="38"></a>
+<a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" height="38"></a>
 
 </div>
-
-<table align="center" width="100%"><tr><td>
-
-**Hey, I’m Shubham Pandey** — a software developer and Android engineer building thoughtful software with a little Night City edge. I enjoy combining mobile, AI, and connected hardware to solve real problems.
-
-- 🔭 **Current focus:** Aegis AI, an IoT fall detection and emergency alert system
-- 🌱 **Exploring:** AI/ML, on-device intelligence, and sensor fusion
-- 🏙️ **Based in:** Bangalore, India
-- 🎓 **Studying:** B.E. Computer Science at Dayananda Sagar College of Engineering
-
-</td></tr></table>
 
 <a id="skills"></a>
 <div align="center">

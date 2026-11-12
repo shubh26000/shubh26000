@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cyberdeck breach: Shubham Pandey profile</title>
+  <desc id="desc">An animated liquid-glass terminal connects, breaches ICE, decrypts account details, then grants access. The sequence repeats every 18 seconds.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0f1a"/><stop offset="1" stop-color="#11162a"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5fd4d0" stop-opacity=".8"/><stop offset=".5" stop-color="#cfd6e4" stop-opacity=".2"/><stop offset="1" stop-color="#d46a9f" stop-opacity=".75"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".075"/><stop offset=".4" stop-color="#ffffff" stop-opacity=".025"/><stop offset="1" stop-color="#5fd4d0" stop-opacity=".035"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5fd4d0"/><stop offset="1" stop-color="#9be5dc"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="11"/></filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#ffffff" stroke-opacity=".13" stroke-width=".5"/></pattern>
+    <clipPath id="window"><rect x="15" y="15" width="770" height="390" rx="20"/></clipPath>
+  </defs>
+  <rect width="800" height="420" rx="26" fill="url(#background)"/>
+  <ellipse cx="170" cy="34" rx="210" ry="48" fill="#5fd4d0" opacity=".11" filter="url(#glow)"/>
+  <ellipse cx="660" cy="390" rx="185" ry="48" fill="#d46a9f" opacity=".10" filter="url(#glow)"/>
+  <rect x="15" y="15" width="770" height="390" rx="20" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+  <g clip-path="url(#window)">
+    <rect x="16" y="16" width="768" height="42" fill="#ffffff" fill-opacity=".045"/>
+    <path d="M16 57H784" stroke="#cfd6e4" stroke-opacity=".12"/>
+    <circle cx="39" cy="37" r="5" fill="#d46a9f" fill-opacity=".85"/>
+    <circle cx="57" cy="37" r="5" fill="#e8c468" fill-opacity=".85"/>
+    <circle cx="75" cy="37" r="5" fill="#6fcf97" fill-opacity=".85"/>
+    <text x="400" y="42" text-anchor="middle" fill="#cfd6e4" fill-opacity=".82" font-family="'Fira Code',Consolas,monospace" font-size="13">cyberdeck://shell</text>
+    <rect x="16" y="58" width="768" height="346" fill="url(#scanlines)" opacity=".18" pointer-events="none"/>
+
+    <!-- Phase 1: CONNECT, 0–3 seconds. -->
+    <g class="connect" font-family="'Fira Code',Consolas,monospace" font-size="15" fill="#5fd4d0">
+      <text x="53" y="143">&gt; jacking into cyberdeck...</text>
+      <text x="53" y="174">&gt; handshake with NetWatch relay ........ <tspan fill="#6fcf97">[OK]</tspan></text>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.1665;.167;1" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <rect class="connect" x="53" y="198" width="694" height="4" rx="2" fill="#cfd6e4" fill-opacity=".12"/>
+    <rect class="connect" x="53" y="198" width="0" height="4" rx="2" fill="url(#bar)">
+      <animate attributeName="width" values="0;694;694;0" keyTimes="0;.1665;.995;1" dur="18s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Phase 2: BREACH, 3–6 seconds. -->
+    <g class="breach" font-family="'Fira Code',Consolas,monospace" font-size="15">
+      <text x="53" y="143" fill="#5fd4d0">&gt; bypassing ICE ........................ <tspan fill="#6fcf97">[OK]</tspan></text>
+      <text x="53" y="174" fill="#d46a9f">&gt; decrypting user profile...<animate attributeName="opacity" values="1;.88;1" dur="3.2s" begin="3s" repeatCount="indefinite"/></text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.1665;.167;.333;.334;1" dur="18s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Phase 3: DATA LEAK, 6–12 seconds. -->
+    <g font-family="'Fira Code',Consolas,monospace" font-size="13.5">
+      <text x="53" y="109" fill="#d46a9f">┌─ ACCOUNT INFO <tspan fill="#d46a9f" font-weight="700">COMPROMISED</tspan> ───────────────────┐</text>
+
+      <g><text x="73" y="137" fill="#e8c468">NAME</text><text x="159" y="137" fill="#5fd4d0">........</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.336;.337" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="160" fill="#e8c468">HANDLE</text><text x="159" y="160" fill="#5fd4d0">......</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.369;.370" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="183" fill="#e8c468">CLASS</text><text x="159" y="183" fill="#5fd4d0">.........</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.402;.403" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="206" fill="#e8c468">BASE</text><text x="159" y="206" fill="#5fd4d0">..........</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.435;.436" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="229" fill="#e8c468">STACK</text><text x="159" y="229" fill="#5fd4d0">.........</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.469;.470" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="252" fill="#e8c468">CURRENTLY</text><text x="159" y="252" fill="#5fd4d0">.......</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.502;.503" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="275" fill="#e8c468">LEARNING</text><text x="159" y="275" fill="#5fd4d0">........</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.536;.537" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g><text x="73" y="298" fill="#e8c468">STATUS</text><text x="159" y="298" fill="#5fd4d0">.........</text>
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.569;.570" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <text x="53" y="326" fill="#d46a9f">└────────────────────────────────────────────────────────────┘</text>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.333;.334;1" dur="18s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Decrypt overlays: each value scrambles briefly, then resolves. -->
+    <g font-family="'Fira Code',Consolas,monospace" font-size="13.5" fill="#cfd6e4">
+      <text x="235" y="137" class="scramble">[XHUB.M P8N?E]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.336;.356;.357" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="160" class="scramble">[SH?B26?00]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.369;.389;.390" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="183" class="scramble">[C5 UN?ERGRAD / ANDR01D]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.402;.422;.423" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="206" class="scramble">[B4NGAL0R3 / 1ND1A]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.435;.455;.456" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="229" class="scramble">[J4V4 / PY7H0N / A1/ML]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.469;.489;.490" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="252" class="scramble">[43G1S F4LL D3T3CT10N + S0S]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.502;.522;.523" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="275" class="scramble">[41/ML / 0N-D3V1C3 / S3NS0R FUS10N]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.536;.556;.557" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="298" class="scramble">[0P3N T0 C0LL4BS]<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.569;.589;.590" dur="18s" repeatCount="indefinite"/></text>
+    </g>
+    <g font-family="'Fira Code',Consolas,monospace" font-size="13.5" fill="#cfd6e4">
+      <text x="235" y="137" class="plain">Shubham Pandey<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.355;.356;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="160" class="plain">shubh26000<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.388;.389;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="183" class="plain">CS Undergrad / Android Developer<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.421;.422;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="206" class="plain">Bangalore, India<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.454;.455;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="229" class="plain">Java / Python / Android / AI/ML<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.488;.489;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="252" class="plain">Aegis AI: IoT fall detection + emergency SOS<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.521;.522;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="275" class="plain">AI/ML / on-device ML / sensor fusion<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.555;.556;1" dur="18s" repeatCount="indefinite"/></text>
+      <text x="235" y="298" class="plain">Open to collabs<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.588;.589;1" dur="18s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- Phase 4: ACCESS, 12–18 seconds (including the 4-second hold). -->
+    <g>
+      <rect x="53" y="351" width="155" height="27" rx="13.5" fill="#6fcf97" fill-opacity=".11" stroke="#6fcf97" stroke-opacity=".55"/>
+      <circle cx="68" cy="364.5" r="3.5" fill="#6fcf97"/>
+      <text x="81" y="369" fill="#6fcf97" font-family="'Fira Code',Consolas,monospace" font-size="12" letter-spacing=".6">ACCESS GRANTED</text>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.666;.667;1" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <text x="53" y="393" fill="#5fd4d0" font-family="'Fira Code',Consolas,monospace" font-size="14">&gt; <tspan fill="#cfd6e4">_</tspan>
+      <animate attributeName="opacity" values=".55;1;.55" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <style>
+    .plain { opacity: 0; }
+    .scramble { opacity: 0; }
+    @media (prefers-reduced-motion: reduce) {
+      animate, set { display: none !important; }
+      .plain { opacity: 1 !important; }
+      .scramble { display: none !important; }
+      .connect, .breach { display: none !important; }
+    }
+  </style>
+</svg>
