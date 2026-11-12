@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/about-static.svg">
-  <img src="assets/about.svg" alt="Animated cyberdeck terminal revealing Shubham Pandey's profile details and access status" width="100%">
+  <img src="assets/about.svg?v=3" alt="Animated cyberdeck terminal revealing Shubham Pandey's profile details and access status" width="100%">
 </picture>
 
 <br>
