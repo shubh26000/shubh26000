@@ -46,6 +46,13 @@
 
 <br>
 
+![Android Development](https://img.shields.io/badge/Android_Development-11162a?style=for-the-badge&logo=android&logoColor=5fd4d0)
+![Java](https://img.shields.io/badge/Java-11162a?style=for-the-badge&logo=openjdk&logoColor=e8c468)
+![Python](https://img.shields.io/badge/Python-11162a?style=for-the-badge&logo=python&logoColor=5fd4d0)
+![AI and Machine Learning](https://img.shields.io/badge/AI_%2F_Machine_Learning-11162a?style=for-the-badge&logo=tensorflow&logoColor=d46a9f)
+
+<br>
+
 ![Tools](https://img.shields.io/badge/Tools-Android%20%7C%20Gemini%20API%20%7C%20ESP8266%20%7C%20MPU6050-11162a?style=for-the-badge&logo=android&logoColor=5fd4d0&labelColor=0b0f1a)
 
 </div>
@@ -105,6 +112,7 @@ An IoT safety system that detects falls, sends emergency SOS alerts, and connect
 ## Find Me in Night City
 
 [![GitHub](https://img.shields.io/badge/GITHUB-11162a?style=for-the-badge&logo=github&logoColor=5fd4d0)](https://github.com/shubh26000)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-11162a?style=for-the-badge&logo=linkedin&logoColor=5fd4d0)](https://www.linkedin.com/in/shubham-pandey-a6b40b342)
 [![Email](https://img.shields.io/badge/EMAIL-11162a?style=for-the-badge&logo=gmail&logoColor=d46a9f)](mailto:1ds24cb053@dsce.edu.in)
 
 <sub>Keep your signal clean. Keep your people close. See you on the other side of the Blackwall.</sub>
