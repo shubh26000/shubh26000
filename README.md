@@ -1,81 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFE0,100:BD00FF&height=250&section=header&text=SHUBHAM%20PANDEY&fontSize=60&fontColor=00FFE0&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Software%20Developer%20%E2%80%A2%20Android%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%9A%A1&descSize=16&descAlignY=55&descAlign=50&stroke=FF00FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF003C,25:D300C5,50:FCEE09,75:05D9E8,100:FF003C&height=260&section=header&text=SHUBHAM%20PANDEY&fontSize=65&fontColor=FCEE09&animation=twinkling&fontAlignY=33&desc=%E2%98%A0%EF%B8%8F%20EDGERUNNER%20%E2%80%A2%20NETRUNNER%20%E2%80%A2%20CODE%20MERCENARY%20%E2%98%A0%EF%B8%8F&descSize=15&descAlignY=53&descAlign=50&stroke=FF003C&strokeWidth=3" width="100%"/>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/shubh26000?style=for-the-badge&logo=github&labelColor=0D1117&color=FF00FF)](https://github.com/shubh26000)
-[![Profile Views](https://komarev.com/ghpvc/?username=shubh26000&style=for-the-badge&color=00FFE0&label=PROFILE+VIEWS)](https://github.com/shubh26000)
-[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=0D1117&color=BD00FF&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubh26000)](https://github.com/shubh26000?tab=repositories)
+![Followers](https://img.shields.io/github/followers/shubh26000?style=for-the-badge&logo=github&labelColor=0D0208&color=FF003C&logoColor=FCEE09)
+![Views](https://komarev.com/ghpvc/?username=shubh26000&style=for-the-badge&color=FCEE09&label=CHOOMS+VISITED&labelColor=0D0208)
+![Stars](https://img.shields.io/github/stars/shubh26000?style=for-the-badge&logo=github&labelColor=0D0208&color=D300C5&logoColor=FCEE09&affiliations=OWNER)
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=800&color=00FFE0&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=120&lines=%3E_+INITIALIZING+SYSTEM...;%3E_+LOADING+ANDROID+MODULES...;%3E_+AI+ENGINE+ONLINE+%E2%9C%93;%3E_+IoT+SENSORS+CONNECTED+%E2%9C%93;%3E_+READY+TO+DEPLOY+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=500&color=FCEE09&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%E2%96%88%E2%96%93+JACKING+INTO+THE+NET...;%E2%96%88%E2%96%93+CYBERDECK+ONLINE+%2F%2F+ICE+BREACHED;%E2%96%88%E2%96%93+RUNNING+daemon%3A%3Aandroid_engineer;%E2%96%88%E2%96%93+NEURAL+LINK+ESTABLISHED+%E2%9C%93;%E2%96%88%E2%96%93+WELCOME+TO+NIGHT+CITY%2C+CHOOM+%F0%9F%8C%83" alt="Typing SVG" /></a>
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `> whoami`
+<div align="center">
 
-```js
-// ╔══════════════════════════════════════════════════════════════════╗
-// ║                    >>> SYSTEM PROFILE <<<                       ║
-// ╚══════════════════════════════════════════════════════════════════╝
+```
+                                                                            
+  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗  
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝██║ ██╔╝  
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║  ██║█████╗  ██║     █████╔╝   
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║  ██║██╔══╝  ██║     ██╔═██╗   
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██████╔╝███████╗╚██████╗██║  ██╗  
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝  
+                                                                            
+```
 
-const shubham = {
-    name: "Shubham Pandey",
-    location: "Bangalore, India 🇮🇳",
-    education: "B.E. Computer Science @ DSCE (Dayananda Sagar College of Engineering)",
-    
-    current_mission: "Aegis AI — Fall Detection System (Android + ESP8266 + AI)",
-    
-    skills: {
-        languages:  ["Java", "Kotlin", "Python", "C++"],
-        mobile:     ["Android SDK", "Jetpack", "Gradle"],
-        ai_ml:      ["Gemini API", "TensorFlow", "On-Device ML"],
-        iot:        ["Arduino", "ESP8266", "MPU6050", "WiFi UDP"],
-        tools:      ["Git", "Android Studio", "VS Code", "Linux"]
-    },
-    
-    currently_hacking: ["Kotlin Multiplatform", "Jetpack Compose", "Edge AI"],
-    philosophy: "Build hardware that saves lives. Ship code that matters. 🛡️"
-};
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## ☠️ `> ACCESS GRANTED // PERSONAL_FILE.SYS`
+
+```ruby
+# ╔═══════════════════════════════════════════════════════════════════════╗
+# ║  ▓▓▓  N I G H T   C I T Y   D A T A B A N K  ▓▓▓                   ║
+# ║  ═══════════════════════════════════════════════                     ║
+# ║                                                                     ║
+# ║  HANDLE .............. Shubham Pandey                                ║
+# ║  ALIAS ............... shubh26000                                    ║
+# ║  LOCATION ............ Bangalore, India 🇮🇳                          ║
+# ║  AFFILIATION ......... DSCE (Dayananda Sagar College of Engg.)      ║
+# ║  CLASS ............... B.E. Computer Science                         ║
+# ║                                                                     ║
+# ║  ROLE ................ Software Developer // Android Engineer        ║
+# ║  SPECIALIZATION ...... AI/ML + IoT Fusion Systems                   ║
+# ║  CURRENT GIG ......... Aegis AI — Fall Detection System             ║
+# ║                                                                     ║
+# ║  THREAT LEVEL ........ ██████████░░ VERY HIGH                       ║
+# ║  REPUTATION .......... RISING LEGEND                                ║
+# ║  STATUS .............. ⚡ ACTIVE                                    ║
+# ║                                                                     ║
+# ║  PHILOSOPHY:                                                        ║
+# ║  "If you're gonna build something, make sure it saves lives."       ║
+# ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> `> cat /tech/stack`
+## ⚙️ `> CYBERDECK_LOADOUT.exe`
 
 <div align="center">
 
-### `// LANGUAGES`
+### `▸ PROGRAMMING_MODULES`
 <a href="#"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c&theme=dark&perline=5" /></a>
 
-### `// ANDROID & MOBILE`
+### `▸ ANDROID_SUBSYSTEMS`
 <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,gradle,firebase&theme=dark&perline=5" /></a>
 
-### `// AI / MACHINE LEARNING`
+### `▸ NEURAL_NET_CORES`
 <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5" /></a>
 
-![Gemini](https://img.shields.io/badge/Gemini_API-886FBF?style=for-the-badge&logo=googlegemini&logoColor=00FFE0)
-![On-Device ML](https://img.shields.io/badge/On--Device_ML-FF00FF?style=for-the-badge&logo=android&logoColor=white)
+![Gemini](https://img.shields.io/badge/GEMINI_API-886FBF?style=for-the-badge&logo=googlegemini&logoColor=FCEE09)
+![Edge AI](https://img.shields.io/badge/ON--DEVICE_ML-FF003C?style=for-the-badge&logo=android&logoColor=FCEE09)
 
-### `// IoT & HARDWARE`
+### `▸ HARDWARE_INTERFACE`
 <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
 
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=00FFE0)
-![MPU6050](https://img.shields.io/badge/MPU6050_Sensor-00FFE0?style=for-the-badge&logo=arduino&logoColor=0D1117)
-![WiFi UDP](https://img.shields.io/badge/WiFi_UDP-BD00FF?style=for-the-badge&logo=wifi&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=FCEE09)
+![MPU6050](https://img.shields.io/badge/MPU6050-FCEE09?style=for-the-badge&logo=arduino&logoColor=0D0208)
+![WiFi](https://img.shields.io/badge/WiFi_UDP-D300C5?style=for-the-badge&logo=wifi&logoColor=FCEE09)
 
-### `// TOOLS & PLATFORMS`
+### `▸ DEV_TOOLS`
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea&theme=dark&perline=5" /></a>
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🏆 `> achievements --list`
+## 🏆 `> STREET CRED`
 
 <div align="center">
 
@@ -85,60 +101,67 @@ const shubham = {
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🚀 `> cat /projects/featured`
+## 🎯 `> cat /gigs/active`
 
 <div align="center">
 
 <a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubh26000&repo=fall-detection-system-aegis-ai-&theme=radical&border_color=FF00FF&title_color=00FFE0&icon_color=BD00FF&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubh26000&repo=fall-detection-system-aegis-ai-&bg_color=0D0208&border_color=FF003C&title_color=FCEE09&icon_color=D300C5&text_color=05D9E8" />
 </a>
 
 </div>
 
 > ```
-> ┌──────────────────────────────────────────────────────────┐
-> │  🛡️ AEGIS AI — FALL DETECTION SYSTEM                    │
-> │                                                          │
-> │  A complete IoT + AI safety system:                      │
-> │  Android app ↔ ESP8266/MPU6050 wearable                 │
-> │                                                          │
-> │  ▸ Real-time fall detection via accelerometer fusion     │
-> │  ▸ Emergency SOS alerts with location                    │
-> │  ▸ AI health chatbot powered by Gemini API               │
-> │  ▸ WiFi UDP communication protocol                       │
-> │                                                          │
-> │  STATUS: [████████████████████████████] DEPLOYED ✓       │
-> └──────────────────────────────────────────────────────────┘
+> ┌─────────────────────────────────────────────────────────────────┐
+> │                                                                 │
+> │  ☠️  PROJECT: AEGIS AI                                          │
+> │  ══════════════════                                             │
+> │                                                                 │
+> │  TYPE ........... IoT + AI Safety System                        │
+> │  HARDWARE ....... ESP8266 + MPU6050 Accelerometer               │
+> │  SOFTWARE ....... Native Android (Java) + Gemini AI             │
+> │  PROTOCOL ....... WiFi UDP Real-time Telemetry                  │
+> │                                                                 │
+> │  CAPABILITIES:                                                  │
+> │  ├── ⚡ Real-time fall detection via sensor fusion              │
+> │  ├── 🚨 Auto-trigger emergency SOS alerts                      │
+> │  ├── 🤖 AI health chatbot (Gemini API)                         │
+> │  └── 📡 Wireless wearable ↔ phone communication               │
+> │                                                                 │
+> │  STATUS: [████████████████████████████████] OPERATIONAL  ✓      │
+> │  CLASSIFICATION: ☢️  MISSION CRITICAL                           │
+> │                                                                 │
+> └─────────────────────────────────────────────────────────────────┘
 > ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📊 `> neofetch --github-stats`
+## 📊 `> netwatch --scan-stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubh26000&show_icons=true&theme=radical&border_color=FF00FF&title_color=00FFE0&icon_color=BD00FF&bg_color=0D1117&text_color=FFFFFF&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh26000&layout=compact&theme=radical&border_color=FF00FF&title_color=00FFE0&bg_color=0D1117&text_color=FFFFFF&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubh26000&show_icons=true&bg_color=0D0208&border_color=FF003C&title_color=FCEE09&icon_color=D300C5&text_color=05D9E8&hide_border=false&count_private=true&ring_color=FF003C" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh26000&layout=compact&bg_color=0D0208&border_color=FF003C&title_color=FCEE09&text_color=05D9E8&hide_border=false" />
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubh26000&theme=radical&border=FF00FF&stroke=FF00FF&ring=00FFE0&fire=FF00FF&currStreakLabel=00FFE0&sideLabels=00FFE0&background=0D1117&currStreakNum=FFFFFF&sideNums=BD00FF&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubh26000&background=0D0208&border=FF003C&stroke=FF003C&ring=FCEE09&fire=FF003C&currStreakLabel=FCEE09&sideLabels=D300C5&currStreakNum=05D9E8&sideNums=05D9E8&dates=555555&excludeDaysLabel=555555)](https://git.io/streak-stats)
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📈 `> plot --activity-graph`
+## 📈 `> trace --activity-log`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubh26000&bg_color=0D1117&color=00FFE0&line=FF00FF&point=BD00FF&area=true&area_color=FF00FF&hide_border=true&custom_title=%F0%9F%94%A5%20CONTRIBUTION%20MATRIX)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubh26000&bg_color=0D0208&color=FCEE09&line=FF003C&point=D300C5&area=true&area_color=FF003C&hide_border=true&custom_title=%E2%98%A0%EF%B8%8F%20NETRUNNER%20ACTIVITY%20LOG)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🐍 `> run snake.exe`
+## 🐍 `> run snake.exe --consume-grid`
 
 <div align="center">
 
@@ -154,28 +177,35 @@ const shubham = {
 
 <div align="center">
 
-## ⚡ `> contact --connect`
+## ⚡ `> ping --contact`
 
-<a href="mailto:1ds24cb053@dsce.edu.in"><img src="https://img.shields.io/badge/📧_1ds24cb053@dsce.edu.in-FF00FF?style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/shubh26000"><img src="https://img.shields.io/badge/GitHub-shubh26000-00FFE0?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ▓▓▓  ESTABLISH SECURE CHANNEL  ▓▓▓                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<a href="mailto:1ds24cb053@dsce.edu.in"><img src="https://img.shields.io/badge/📡_1ds24cb053@dsce.edu.in-FF003C?style=for-the-badge&labelColor=0D0208" /></a>
+<a href="https://github.com/shubh26000"><img src="https://img.shields.io/badge/GITHUB-shubh26000-FCEE09?style=for-the-badge&logo=github&logoColor=0D0208&labelColor=0D0208" /></a>
 
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-<br/><br/>
+<br/>
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   "The best way to predict the future                 ║
-║              is to build it." — Alan Kay               ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
+                                                              
+  "A legend is nothing more than someone who gave             
+   everything to make the impossible possible."               
+                                    — David Martinez          
+                                                              
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFE0,100:BD00FF&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF003C,25:D300C5,50:FCEE09,75:05D9E8,100:FF003C&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
