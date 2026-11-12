@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/about-static.svg">
-  <img src="assets/about.svg?v=3" alt="Animated cyberdeck terminal revealing Shubham Pandey's profile details and access status" width="100%">
+  <img src="assets/about.svg?v=4" alt="Animated cyberdeck terminal revealing Shubham Pandey's profile details and access status" width="100%">
 </picture>
 
 <br>
@@ -40,7 +40,7 @@
 
 ## Tech Stack
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,androidstudio,gradle,firebase,tensorflow,pytorch,arduino,git,github,vscode,linux,idea&theme=dark" alt="Java, Kotlin, Python, C++, C, Android Studio, Gradle, Firebase, TensorFlow, PyTorch, Arduino, Git, GitHub, VS Code, Linux, and IntelliJ IDEA"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,androidstudio,gradle,firebase,tensorflow,pytorch,arduino,git,github,vscode,linux,idea&theme=dark&perline=8" alt="Java, Kotlin, Python, C++, C, Android Studio, Gradle, Firebase, TensorFlow, PyTorch, Arduino, Git, GitHub, VS Code, Linux, and IntelliJ IDEA"/></a>
 
 <br>
 
@@ -66,8 +66,7 @@
 
 <!-- PROJECTS:START -->
 <table align="center" width="100%">
-<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/student-management">student-management</a></strong><br><sub>Repository and source code.</sub><br><br><code>HTML</code><br><a href="https://github.com/shubh26000/student-management">Open repository ↗</a></td><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/dev-ops-lab">dev-ops-lab</a></strong><br><sub>Repository and source code.</sub><br><a href="https://github.com/shubh26000/dev-ops-lab">Open repository ↗</a></td></tr>
-<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">fall-detection-system-aegis-ai-</a></strong><br><sub>just a mini project</sub><br><br><code>Java</code><br><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">Open repository ↗</a></td><td width="50%" valign="top"></td></tr>
+<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/dev-ops-lab">dev-ops-lab</a></strong><br><sub>Repository and source code.</sub><br><a href="https://github.com/shubh26000/dev-ops-lab">Open repository ↗</a></td><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">fall-detection-system-aegis-ai-</a></strong><br><sub>just a mini project</sub><br><br><code>Java</code><br><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">Open repository ↗</a></td></tr>
 </table>
 <!-- PROJECTS:END -->
 
