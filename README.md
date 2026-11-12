@@ -8,7 +8,6 @@
 <a href="#projects"><img src="assets/nav-projects.svg" alt="Projects" height="38"></a>
 <a href="#skills"><img src="assets/nav-skills.svg" alt="Skills" height="38"></a>
 <a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" height="38"></a>
-<a href="YOUR_RESUME_URL"><img src="assets/nav-resume.svg" alt="Resume" height="38"></a>
 
 <br><br>
 
@@ -62,46 +61,14 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [Aegis AI](https://github.com/shubh26000/fall-detection-system-aegis-ai-)
 An IoT safety system that detects falls, sends emergency SOS alerts, and connects wearable sensor data to an Android app.
 
-`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
+`Java` · `Android` · `Gemini API` · `ESP8266` · `MPU6050` · `WiFi UDP`
 
 [![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/fall-detection-system-aegis-ai-)
-
-</td>
-<td width="50%" valign="top">
-
-### [PROJECT_TWO_NAME](https://github.com/shubh26000/YOUR_PROJECT_TWO_REPO)
-PROJECT_TWO_DESCRIPTION — a concise, concrete project summary.
-
-`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/YOUR_PROJECT_TWO_REPO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [PROJECT_THREE_NAME](https://github.com/shubh26000/YOUR_PROJECT_THREE_REPO)
-PROJECT_THREE_DESCRIPTION — highlight the interesting result or feature.
-
-`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/YOUR_PROJECT_THREE_REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### [PROJECT_FOUR_NAME](https://github.com/shubh26000/YOUR_PROJECT_FOUR_REPO)
-PROJECT_FOUR_DESCRIPTION — replace this card with another project or remove it.
-
-`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/YOUR_PROJECT_FOUR_REPO)
 
 </td>
 </tr>
@@ -138,47 +105,8 @@ PROJECT_FOUR_DESCRIPTION — replace this card with another project or remove it
 ## Find Me in Night City
 
 [![GitHub](https://img.shields.io/badge/GITHUB-11162a?style=for-the-badge&logo=github&logoColor=5fd4d0)](https://github.com/shubh26000)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-11162a?style=for-the-badge&logo=linkedin&logoColor=5fd4d0)](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/)
 [![Email](https://img.shields.io/badge/EMAIL-11162a?style=for-the-badge&logo=gmail&logoColor=d46a9f)](mailto:1ds24cb053@dsce.edu.in)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-11162a?style=for-the-badge&logo=googlechrome&logoColor=5fd4d0)](https://YOUR_PORTFOLIO_DOMAIN)
-[![Resume](https://img.shields.io/badge/RESUME-11162a?style=for-the-badge&logo=readthedocs&logoColor=e8c468)](YOUR_RESUME_URL)
 
 <sub>Keep your signal clean. Keep your people close. See you on the other side of the Blackwall.</sub>
 
 </div>
-
----
-
-## Setup Checklist
-
-1. Create a **public** GitHub repository named exactly `shubh26000` (the repository name must match your GitHub username for a profile README).
-2. Copy `README.md`, the `assets/` folder, and `.github/workflows/snake.yml` into the repository root, preserving those paths.
-3. Replace every placeholder below in the README and workflow.
-4. In the repository, open **Settings → Actions → General** and allow GitHub Actions to run and create/push a branch. The workflow uses the repository's `GITHUB_TOKEN` with `contents: write`.
-5. Open **Actions**, run **Generate contribution snake**, and confirm that the workflow creates/updates the `output` branch. The README snake appears after the first successful run.
-
-### Replace these placeholders
-
-- `PROJECT_TWO_NAME`, `PROJECT_THREE_NAME`, `PROJECT_FOUR_NAME`.
-- `YOUR_PROJECT_TWO_REPO`, `YOUR_PROJECT_THREE_REPO`, `YOUR_PROJECT_FOUR_REPO` — repository names beneath your username.
-- `PROJECT_TWO_DESCRIPTION`, `PROJECT_THREE_DESCRIPTION`, `PROJECT_FOUR_DESCRIPTION`.
-- `YOUR_TECH_1`, `YOUR_TECH_2`, `YOUR_TECH_3` — replace per card with each project's stack.
-- `YOUR_LINKEDIN_SLUG` — LinkedIn profile slug.
-- `YOUR_PORTFOLIO_DOMAIN` — portfolio hostname, without `https://`.
-- `YOUR_RESUME_URL` — public resume URL (or remove the Resume nav and footer badges).
-
-### Link destinations to update
-
-Every link is clickable. Replace these destinations with your real profile, project, portfolio, resume, and email destinations:
-
-- `https://github.com/shubh26000` (profile/stats; snake assets use this profile repository's `output` branch).
-- `https://github.com/shubh26000/fall-detection-system-aegis-ai-`
-- `https://github.com/shubh26000/YOUR_PROJECT_TWO_REPO`
-- `https://github.com/shubh26000/YOUR_PROJECT_THREE_REPO`
-- `https://github.com/shubh26000/YOUR_PROJECT_FOUR_REPO`
-- `https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/`
-- `mailto:1ds24cb053@dsce.edu.in`
-- `https://YOUR_PORTFOLIO_DOMAIN`
-- `YOUR_RESUME_URL` (nav and contact links)
-
-Local SVG paths are relative to the repository root and should be kept as `assets/...`.
