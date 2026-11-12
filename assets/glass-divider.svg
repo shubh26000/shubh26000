@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" role="img" aria-label="Subtle cyan to magenta neon divider">
+ <defs><linearGradient id="line"><stop stop-color="#5fd4d0" stop-opacity="0"/><stop offset=".22" stop-color="#5fd4d0"/><stop offset=".5" stop-color="#cfd6e4" stop-opacity=".55"/><stop offset=".78" stop-color="#d46a9f"/><stop offset="1" stop-color="#d46a9f" stop-opacity="0"/></linearGradient></defs>
+ <path d="M0 14H1000" stroke="url(#line)" stroke-width="1.5"/><path d="M390 14H610" stroke="#5fd4d0" stroke-opacity=".23" stroke-width="5"/>
+</svg>

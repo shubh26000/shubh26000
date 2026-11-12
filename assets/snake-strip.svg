@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" role="img" aria-label="Dark glass strip for contribution snake">
+ <defs><linearGradient id="g" x2="1"><stop stop-color="#5fd4d0" stop-opacity=".22"/><stop offset=".5" stop-color="#11162a"/><stop offset="1" stop-color="#d46a9f" stop-opacity=".22"/></linearGradient><linearGradient id="b" x2="1"><stop stop-color="#5fd4d0" stop-opacity=".7"/><stop offset="1" stop-color="#d46a9f" stop-opacity=".7"/></linearGradient></defs>
+ <rect x="2" y="2" width="996" height="86" rx="18" fill="url(#g)" stroke="url(#b)" stroke-opacity=".55"/>
+ <path d="M28 45H972" stroke="url(#b)" stroke-width="1" stroke-opacity=".3"/>
+ <g fill="#5fd4d0" fill-opacity=".55"><rect x="34" y="39" width="12" height="12" rx="3"/><rect x="54" y="39" width="12" height="12" rx="3" opacity=".4"/><rect x="74" y="39" width="12" height="12" rx="3" opacity=".7"/></g>
+ <text x="500" y="51" text-anchor="middle" fill="#cfd6e4" font-family="monospace" font-size="13" letter-spacing="4">CONTRIBUTION SIGNAL // OUTPUT BRANCH</text>
+</svg>

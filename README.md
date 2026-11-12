@@ -1,211 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF003C,25:D300C5,50:FCEE09,75:05D9E8,100:FF003C&height=260&section=header&text=SHUBHAM%20PANDEY&fontSize=65&fontColor=FCEE09&animation=twinkling&fontAlignY=33&desc=%E2%98%A0%EF%B8%8F%20EDGERUNNER%20%E2%80%A2%20NETRUNNER%20%E2%80%A2%20CODE%20MERCENARY%20%E2%98%A0%EF%B8%8F&descSize=15&descAlignY=53&descAlign=50&stroke=FF003C&strokeWidth=3" width="100%"/>
+<img src="assets/edgerunners-banner.svg" alt="Cyberpunk Edgerunners themed banner with a typing tagline" width="100%">
 
-<br/>
+<br>
 
-![Followers](https://img.shields.io/github/followers/shubh26000?style=for-the-badge&logo=github&labelColor=0D0208&color=FF003C&logoColor=FCEE09)
-![Views](https://komarev.com/ghpvc/?username=shubh26000&style=for-the-badge&color=FCEE09&label=CHOOMS+VISITED&labelColor=0D0208)
-![Stars](https://img.shields.io/github/stars/shubh26000?style=for-the-badge&logo=github&labelColor=0D0208&color=D300C5&logoColor=FCEE09&affiliations=OWNER)
+<a href="#about"><img src="assets/nav-about.svg" alt="About" height="38"></a>
+<a href="#projects"><img src="assets/nav-projects.svg" alt="Projects" height="38"></a>
+<a href="#skills"><img src="assets/nav-skills.svg" alt="Skills" height="38"></a>
+<a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" height="38"></a>
+<a href="YOUR_RESUME_URL"><img src="assets/nav-resume.svg" alt="Resume" height="38"></a>
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=500&color=FCEE09&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%E2%96%88%E2%96%93+JACKING+INTO+THE+NET...;%E2%96%88%E2%96%93+CYBERDECK+ONLINE+%2F%2F+ICE+BREACHED;%E2%96%88%E2%96%93+RUNNING+daemon%3A%3Aandroid_engineer;%E2%96%88%E2%96%93+NEURAL+LINK+ESTABLISHED+%E2%9C%93;%E2%96%88%E2%96%93+WELCOME+TO+NIGHT+CITY%2C+CHOOM+%F0%9F%8C%83" alt="Typing SVG" /></a>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-```
-                                                                            
-  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ███████╗ ██████╗██╗  ██╗  
- ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝██║ ██╔╝  
- ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║  ██║█████╗  ██║     █████╔╝   
- ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║  ██║██╔══╝  ██║     ██╔═██╗   
- ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██████╔╝███████╗╚██████╗██║  ██╗  
-  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝  
-                                                                            
-```
+> *“Wake up, Samurai. We have a city to code.”*
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-## ☠️ `> ACCESS GRANTED // PERSONAL_FILE.SYS`
-
-```ruby
-# ╔═══════════════════════════════════════════════════════════════════════╗
-# ║  ▓▓▓  N I G H T   C I T Y   D A T A B A N K  ▓▓▓                   ║
-# ║  ═══════════════════════════════════════════════                     ║
-# ║                                                                     ║
-# ║  HANDLE .............. Shubham Pandey                                ║
-# ║  ALIAS ............... shubh26000                                    ║
-# ║  LOCATION ............ Bangalore, India 🇮🇳                          ║
-# ║  AFFILIATION ......... DSCE (Dayananda Sagar College of Engg.)      ║
-# ║  CLASS ............... B.E. Computer Science                         ║
-# ║                                                                     ║
-# ║  ROLE ................ Software Developer // Android Engineer        ║
-# ║  SPECIALIZATION ...... AI/ML + IoT Fusion Systems                   ║
-# ║  CURRENT GIG ......... Aegis AI — Fall Detection System             ║
-# ║                                                                     ║
-# ║  THREAT LEVEL ........ ██████████░░ VERY HIGH                       ║
-# ║  REPUTATION .......... RISING LEGEND                                ║
-# ║  STATUS .............. ⚡ ACTIVE                                    ║
-# ║                                                                     ║
-# ║  PHILOSOPHY:                                                        ║
-# ║  "If you're gonna build something, make sure it saves lives."       ║
-# ╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## ⚙️ `> CYBERDECK_LOADOUT.exe`
-
+<a id="about"></a>
 <div align="center">
 
-### `▸ PROGRAMMING_MODULES`
-<a href="#"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c&theme=dark&perline=5" /></a>
+## About Me
 
-### `▸ ANDROID_SUBSYSTEMS`
-<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,gradle,firebase&theme=dark&perline=5" /></a>
-
-### `▸ NEURAL_NET_CORES`
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5" /></a>
-
-![Gemini](https://img.shields.io/badge/GEMINI_API-886FBF?style=for-the-badge&logo=googlegemini&logoColor=FCEE09)
-![Edge AI](https://img.shields.io/badge/ON--DEVICE_ML-FF003C?style=for-the-badge&logo=android&logoColor=FCEE09)
-
-### `▸ HARDWARE_INTERFACE`
-<a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
-
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=FCEE09)
-![MPU6050](https://img.shields.io/badge/MPU6050-FCEE09?style=for-the-badge&logo=arduino&logoColor=0D0208)
-![WiFi](https://img.shields.io/badge/WiFi_UDP-D300C5?style=for-the-badge&logo=wifi&logoColor=FCEE09)
-
-### `▸ DEV_TOOLS`
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea&theme=dark&perline=5" /></a>
+<img src="assets/glass-divider.svg" alt="Muted cyan and magenta neon divider" width="100%">
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<table align="center" width="100%"><tr><td>
 
-## 🏆 `> STREET CRED`
+**Hey, I’m Shubham Pandey** — a software developer and Android engineer building thoughtful software with a little Night City edge. I enjoy combining mobile, AI, and connected hardware to solve real problems.
 
+- 🔭 **Current focus:** Aegis AI, an IoT fall detection and emergency alert system
+- 🌱 **Exploring:** AI/ML, on-device intelligence, and sensor fusion
+- 🏙️ **Based in:** Bangalore, India
+- 🎓 **Studying:** B.E. Computer Science at Dayananda Sagar College of Engineering
+
+</td></tr></table>
+
+<a id="skills"></a>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubh26000&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+## Tech Stack
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,androidstudio,gradle,firebase,tensorflow,pytorch,arduino,git,github,vscode,linux,idea&theme=dark" alt="Java, Kotlin, Python, C++, C, Android Studio, Gradle, Firebase, TensorFlow, PyTorch, Arduino, Git, GitHub, VS Code, Linux, and IntelliJ IDEA"/></a>
+
+<br>
+
+![Tools](https://img.shields.io/badge/Tools-Android%20%7C%20Gemini%20API%20%7C%20ESP8266%20%7C%20MPU6050-11162a?style=for-the-badge&logo=android&logoColor=5fd4d0&labelColor=0b0f1a)
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 🎯 `> cat /gigs/active`
-
+<a id="projects"></a>
 <div align="center">
 
-<a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubh26000&repo=fall-detection-system-aegis-ai-&bg_color=0D0208&border_color=FF003C&title_color=FCEE09&icon_color=D300C5&text_color=05D9E8" />
-</a>
+## Featured Projects
+
+<img src="assets/glass-divider.svg" alt="Muted cyan and magenta neon divider" width="100%">
 
 </div>
 
-> ```
-> ┌─────────────────────────────────────────────────────────────────┐
-> │                                                                 │
-> │  ☠️  PROJECT: AEGIS AI                                          │
-> │  ══════════════════                                             │
-> │                                                                 │
-> │  TYPE ........... IoT + AI Safety System                        │
-> │  HARDWARE ....... ESP8266 + MPU6050 Accelerometer               │
-> │  SOFTWARE ....... Native Android (Java) + Gemini AI             │
-> │  PROTOCOL ....... WiFi UDP Real-time Telemetry                  │
-> │                                                                 │
-> │  CAPABILITIES:                                                  │
-> │  ├── ⚡ Real-time fall detection via sensor fusion              │
-> │  ├── 🚨 Auto-trigger emergency SOS alerts                      │
-> │  ├── 🤖 AI health chatbot (Gemini API)                         │
-> │  └── 📡 Wireless wearable ↔ phone communication               │
-> │                                                                 │
-> │  STATUS: [████████████████████████████████] OPERATIONAL  ✓      │
-> │  CLASSIFICATION: ☢️  MISSION CRITICAL                           │
-> │                                                                 │
-> └─────────────────────────────────────────────────────────────────┘
-> ```
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### [Aegis AI](https://github.com/shubh26000/fall-detection-system-aegis-ai-)
+An IoT safety system that detects falls, sends emergency SOS alerts, and connects wearable sensor data to an Android app.
 
-## 📊 `> netwatch --scan-stats`
+`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
 
-<div align="center">
+[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/fall-detection-system-aegis-ai-)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubh26000&show_icons=true&bg_color=0D0208&border_color=FF003C&title_color=FCEE09&icon_color=D300C5&text_color=05D9E8&hide_border=false&count_private=true&ring_color=FF003C" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh26000&layout=compact&bg_color=0D0208&border_color=FF003C&title_color=FCEE09&text_color=05D9E8&hide_border=false" />
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### [PROJECT_TWO_NAME](https://github.com/shubh26000/YOUR_PROJECT_TWO_REPO)
+PROJECT_TWO_DESCRIPTION — a concise, concrete project summary.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubh26000&background=0D0208&border=FF003C&stroke=FF003C&ring=FCEE09&fire=FF003C&currStreakLabel=FCEE09&sideLabels=D300C5&currStreakNum=05D9E8&sideNums=05D9E8&dates=555555&excludeDaysLabel=555555)](https://git.io/streak-stats)
+`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
 
-</div>
+[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/YOUR_PROJECT_TWO_REPO)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📈 `> trace --activity-log`
+### [PROJECT_THREE_NAME](https://github.com/shubh26000/YOUR_PROJECT_THREE_REPO)
+PROJECT_THREE_DESCRIPTION — highlight the interesting result or feature.
 
-<div align="center">
+`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubh26000&bg_color=0D0208&color=FCEE09&line=FF003C&point=D300C5&area=true&area_color=FF003C&hide_border=true&custom_title=%E2%98%A0%EF%B8%8F%20NETRUNNER%20ACTIVITY%20LOG)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/YOUR_PROJECT_THREE_REPO)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### [PROJECT_FOUR_NAME](https://github.com/shubh26000/YOUR_PROJECT_FOUR_REPO)
+PROJECT_FOUR_DESCRIPTION — replace this card with another project or remove it.
 
-## 🐍 `> run snake.exe --consume-grid`
+`YOUR_TECH_1` · `YOUR_TECH_2` · `YOUR_TECH_3`
+
+[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/YOUR_PROJECT_FOUR_REPO)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+## GitHub Stats
+
+<a href="https://github.com/shubh26000"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shubh26000&show_icons=true&hide_border=true&bg_color=0b0f1a,11162a&title_color=5fd4d0&text_color=cfd6e4&icon_color=d46a9f&ring_color=e8c468" alt="GitHub stats for shubh26000"></a>
+<a href="https://github.com/shubh26000"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh26000&hide_border=true&background=0b0f1a&ring=5fd4d0&fire=e8c468&currStreakLabel=d46a9f&sideLabels=cfd6e4&currStreakNum=ffffff&sideNums=ffffff&dates=cfd6e4" alt="GitHub contribution streak for shubh26000"></a>
+
+<br>
+
+<a href="https://github.com/shubh26000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh26000&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=5fd4d0&text_color=cfd6e4" alt="Most used languages for shubh26000"></a>
+
+## Contribution Snake
+
+<img src="assets/snake-strip.svg" alt="Dark glass strip with contribution snake" width="100%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh26000/shubh26000/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh26000/shubh26000/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shubh26000/shubh26000/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh26000/shubh26000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh26000/shubh26000/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/shubh26000/shubh26000/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<a id="contact"></a>
 <div align="center">
 
-## ⚡ `> ping --contact`
+<img src="assets/glass-divider.svg" alt="Muted cyan and magenta neon divider" width="100%">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ▓▓▓  ESTABLISH SECURE CHANNEL  ▓▓▓                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## Find Me in Night City
 
-<a href="mailto:1ds24cb053@dsce.edu.in"><img src="https://img.shields.io/badge/📡_1ds24cb053@dsce.edu.in-FF003C?style=for-the-badge&labelColor=0D0208" /></a>
-<a href="https://github.com/shubh26000"><img src="https://img.shields.io/badge/GITHUB-shubh26000-FCEE09?style=for-the-badge&logo=github&logoColor=0D0208&labelColor=0D0208" /></a>
+[![GitHub](https://img.shields.io/badge/GITHUB-11162a?style=for-the-badge&logo=github&logoColor=5fd4d0)](https://github.com/shubh26000)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-11162a?style=for-the-badge&logo=linkedin&logoColor=5fd4d0)](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/)
+[![Email](https://img.shields.io/badge/EMAIL-11162a?style=for-the-badge&logo=gmail&logoColor=d46a9f)](mailto:1ds24cb053@dsce.edu.in)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-11162a?style=for-the-badge&logo=googlechrome&logoColor=5fd4d0)](https://YOUR_PORTFOLIO_DOMAIN)
+[![Resume](https://img.shields.io/badge/RESUME-11162a?style=for-the-badge&logo=readthedocs&logoColor=e8c468)](YOUR_RESUME_URL)
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/>
-
-```
-                                                              
-  "A legend is nothing more than someone who gave             
-   everything to make the impossible possible."               
-                                    — David Martinez          
-                                                              
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF003C,25:D300C5,50:FCEE09,75:05D9E8,100:FF003C&height=150&section=footer&animation=twinkling" width="100%"/>
+<sub>Keep your signal clean. Keep your people close. See you on the other side of the Blackwall.</sub>
 
 </div>
+
+---
+
+## Setup Checklist
+
+1. Create a **public** GitHub repository named exactly `shubh26000` (the repository name must match your GitHub username for a profile README).
+2. Copy `README.md`, the `assets/` folder, and `.github/workflows/snake.yml` into the repository root, preserving those paths.
+3. Replace every placeholder below in the README and workflow.
+4. In the repository, open **Settings → Actions → General** and allow GitHub Actions to run and create/push a branch. The workflow uses the repository's `GITHUB_TOKEN` with `contents: write`.
+5. Open **Actions**, run **Generate contribution snake**, and confirm that the workflow creates/updates the `output` branch. The README snake appears after the first successful run.
+
+### Replace these placeholders
+
+- `PROJECT_TWO_NAME`, `PROJECT_THREE_NAME`, `PROJECT_FOUR_NAME`.
+- `YOUR_PROJECT_TWO_REPO`, `YOUR_PROJECT_THREE_REPO`, `YOUR_PROJECT_FOUR_REPO` — repository names beneath your username.
+- `PROJECT_TWO_DESCRIPTION`, `PROJECT_THREE_DESCRIPTION`, `PROJECT_FOUR_DESCRIPTION`.
+- `YOUR_TECH_1`, `YOUR_TECH_2`, `YOUR_TECH_3` — replace per card with each project's stack.
+- `YOUR_LINKEDIN_SLUG` — LinkedIn profile slug.
+- `YOUR_PORTFOLIO_DOMAIN` — portfolio hostname, without `https://`.
+- `YOUR_RESUME_URL` — public resume URL (or remove the Resume nav and footer badges).
+
+### Link destinations to update
+
+Every link is clickable. Replace these destinations with your real profile, project, portfolio, resume, and email destinations:
+
+- `https://github.com/shubh26000` (profile/stats; snake assets use this profile repository's `output` branch).
+- `https://github.com/shubh26000/fall-detection-system-aegis-ai-`
+- `https://github.com/shubh26000/YOUR_PROJECT_TWO_REPO`
+- `https://github.com/shubh26000/YOUR_PROJECT_THREE_REPO`
+- `https://github.com/shubh26000/YOUR_PROJECT_FOUR_REPO`
+- `https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/`
+- `mailto:1ds24cb053@dsce.edu.in`
+- `https://YOUR_PORTFOLIO_DOMAIN`
+- `YOUR_RESUME_URL` (nav and contact links)
+
+Local SVG paths are relative to the repository root and should be kept as `assets/...`.
