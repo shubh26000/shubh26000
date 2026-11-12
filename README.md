@@ -64,20 +64,11 @@
 
 </div>
 
+<!-- PROJECTS:START -->
 <table align="center" width="100%">
-<tr>
-<td width="100%" valign="top">
-
-### [Aegis AI](https://github.com/shubh26000/fall-detection-system-aegis-ai-)
-An IoT safety system that detects falls, sends emergency SOS alerts, and connects wearable sensor data to an Android app.
-
-`Java` · `Android` · `Gemini API` · `ESP8266` · `MPU6050` · `WiFi UDP`
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-5fd4d0?style=for-the-badge&logo=github&logoColor=0b0f1a)](https://github.com/shubh26000/fall-detection-system-aegis-ai-)
-
-</td>
-</tr>
+<tr><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">fall-detection-system-aegis-ai-</a></strong><br><sub>just a mini project</sub><br><br><code>Java</code><br><a href="https://github.com/shubh26000/fall-detection-system-aegis-ai-">Open repository ↗</a></td><td width="50%" valign="top"><strong><a href="https://github.com/shubh26000/dev-ops-lab">dev-ops-lab</a></strong><br><sub>Repository and source code.</sub><br><br><a href="https://github.com/shubh26000/dev-ops-lab">Open repository ↗</a></td></tr>
 </table>
+<!-- PROJECTS:END -->
 
 <div align="center">
 
